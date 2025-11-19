@@ -1,27 +1,29 @@
 <h2 align="center">👋 Hi, I am <strong>Zubair Jamil</strong></h2>
 
 <p align="center">
-  <em>Senior Full-Stack Developer | Building stable and scalable web products</em>
+  <em>Senior Full-Stack Developer | Product-Focused Builder | Scalable Systems</em>
 </p>
 
 <br/>
 
 <p>
-  I work as a senior developer with real experience in designing and building full-stack web systems. 
-  My daily work covers JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, PostgreSQL, 
-  and cloud setups such as AWS. I focus on clean structure, maintainable code, and stable performance.
+  I work as a senior developer with solid experience in building stable and scalable products. 
+  My work covers JavaScript, TypeScript, React, Next.js, Node.js, Express, Python, PHP, MongoDB, PostgreSQL, 
+  MySQL, and cloud setups such as AWS. I focus on clean structure, maintainable code, and stable performance.
 </p>
 
 <p>
-  I have led core features from planning to deployment in remote teams. 
-  My work includes API design, database architecture, system integrations, 
-  performance tuning, and practical problem solving for real products.
+  I have worked on long-term products with complete ownership. 
+  This includes planning features, shaping product direction, writing functional requirements, 
+  and breaking down releases into clear development cycles. 
+  I use structured communication and steady delivery habits when working with remote teams.
 </p>
 
 <p>
-  My approach stays simple.  
-  I study the problem, shape a clear path, and move forward with steady progress.  
-  I enjoy long-term collaboration and structured project management with clear communication.
+  My technical work includes API design, database architecture, performance improvements, 
+  system integrations, and scalable backend logic. 
+  My product-focused work includes workflow mapping, understanding user cases, 
+  and guiding development based on actual value instead of guesswork.
 </p>
 
 <br/>
@@ -29,9 +31,10 @@
 <h3>🔧 Tech Stack</h3>
 <ul>
   <li>Frontend: React, Next.js, Tailwind, TypeScript</li>
-  <li>Backend: Node.js, Express, NestJS</li>
+  <li>Backend: Node.js, Express, NestJS, PHP (Laravel), Python (FastAPI, Django)</li>
   <li>Databases: MongoDB, PostgreSQL, MySQL</li>
   <li>DevOps: Docker, AWS, CI/CD, REST APIs</li>
+  <li>Other: Product Planning, Requirement Mapping, Feature Roadmaps</li>
 </ul>
 
 <br/>
